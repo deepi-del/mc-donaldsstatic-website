@@ -1,0 +1,1331 @@
+.maincontainer{
+    margin: 0%;
+    padding: 0px;
+    width: 1278px;
+    height: 5850px;
+
+}
+body{
+    margin: 0%;
+    padding: 0px;
+
+}
+.seccontainer{
+    margin: 0px;
+    width: 1278px;
+    height: 133px;
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+    width: 209px;
+    height: 133px;
+}
+.logo img{
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.nav{
+    width: 1049px;
+    height: 133px;
+    display: flex;
+    
+    
+}
+.first{
+    width: 500px;
+    height: 65px;
+}
+.language{
+    padding-left: 13px;
+    padding-right: 28px;
+    font-weight: 700;
+    width: 80px;
+    height: 24px;
+    text-align: center;
+    margin-top: 26px;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 24px;
+    background: transparent;
+    color: #292929;
+    border: none;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+}
+.languagebtn{
+    border: none;
+    outline: none;
+    background-color: inherit;
+    width: 87px;
+}
+
+.signli{
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: capitalize;
+    margin-top: -5px;
+    float: left;
+    list-style-type: none;
+    padding: 16px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    
+}.firstext{
+    width: 550px;
+    height: 65px;
+}
+.form{
+    width: 100px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 62px;
+
+}
+.form input{
+    border: none;
+}
+.searchul{
+    margin-top: -35px;
+}
+.searchul a{
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 400;
+    color: #006bae;
+}
+.rest{
+    
+margin-top: 13px;
+list-style: none;
+float: left;
+padding-right: 10px;
+margin-left: 142px;
+font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+}
+.ordernow{
+list-style: none;
+margin-left: 161px;
+margin-top: 1px;
+margin-bottom: 7px;
+font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+}
+.ordernow a{
+    text-decoration: none;
+    color: #292929;
+    font-weight: 500;
+}
+.ordernow button{
+    border-radius: 4px;
+    height: 40px;
+    width: 124px;
+    margin-left: 20px;
+    border: none;
+    background-color: #ffbc0d;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.secondnav{
+    display: flex;
+    width: 1049px;
+    margin-top: 65px;
+    margin-left: -1049px;
+}
+.ourmenu{
+    margin-top: 17px;
+    margin-left: 29px;
+    width: 105px;
+}
+.menubtn{
+    border: none;
+    background-color: inherit;
+    text-transform: capitalize;
+    font-size: 17px;
+}
+.menudown{
+ size: 10px;
+}
+.listli{
+    list-style: none;
+    float: left;
+    padding: 1px;
+    padding-right: 24px;
+    color: #292929;
+    font-weight: 500;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.listul{
+    float: left;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+}
+.firstmaindiv{
+    width: 1273;
+    height: 4635px;
+    padding-top: 100px;
+    border-top: #e4e2e214;
+    border-style: groove;
+    border-width: 7px;
+    border-bottom: none;
+    border-left: none;
+
+}
+.knowdiv{
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 499px;
+}
+.ourburgerdiv{
+    margin-left: 46px;
+    margin-right: 46px;
+    width: 1170px;
+    height: 500px;
+    display: flex;
+}
+.burgerimg{
+    width: 748px;
+    height: 333px;
+}
+.burgerimg img{
+    width: 100%;
+    position: relative;
+    top: 0;
+    vertical-align: middle;
+    border-style: none;
+}
+.contentdiv{
+    width: 377px;
+    height: 493px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bodycontent{
+    height: 386px;
+    width: 377px;
+    margin-bottom: 14px;
+    text-align: left;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    letter-spacing: -.15px;
+}
+.tittlediv{
+    width: 377px;
+    height: 120px;
+    text-align: left;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    
+}
+.tittlediv h2{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: left;
+}
+.describtiondiv{
+    width: 377px;
+    height: 233px;
+    padding-bottom: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    text-align: left;
+}.describtiondiv p{
+    font-size: 16px;
+    background-color: transparent;
+    color: #292929;
+    
+    
+}
+.legal{
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+    background-color: transparent;
+    display: inline-block;
+    padding: 0;
+}
+.firstbotton{
+    width: 377px;
+    height: 48px;
+    padding-bottom: 30px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    text-align: left;
+    color: #292929;
+    display: block;
+}
+.firstbotton a{
+    color: #292929;
+    background-color: #ffbc0d;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    padding-left: 25px;
+    width: 128px;
+    height: 22px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 4px;
+    display: block;
+
+}
+.secondmaindiv{
+    width: 1170px;
+    height: 393px;
+    padding-top: 100px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+.seconddivadd{
+    width: 1194px;
+    height: 393px;
+    margin-left: -12px;
+    margin-right: -12px;
+
+}
+.seconddivplus{
+    width: 1170px;
+    height: 393px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+.secondfluxdiv{
+    width: 1183px;
+    height: 393px;
+    margin-left: 46px;
+    margin-right: -8px;
+    display: flex;
+    
+}
+.secondimage{
+    width: 748px;
+    height: 333px;
+}
+.secondimage img{
+    width: 100%;
+    height: 333px;
+    vertical-align: middle;
+    border-style: none;
+    position: relative;
+}
+.contentseconddiv{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 377px;
+    height: 393px;
+    float: left;
+}
+.bodysecond{
+    width: 377px;
+    height: 286px;
+    margin-bottom: 14px;
+
+}
+.tittlesecond{
+    text-align: left;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    width: 377px;
+    height: 80px;
+    color: #292929;
+    font-size: 25px;
+}
+.seconddes{
+    padding-bottom: 15px;
+    width: 377px;
+    height: 173px;
+    letter-spacing: -.15px;
+    color: #292929;
+    text-align: left;
+    margin-top: 46px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    
+}
+.seconddes p{
+   font-size: 16px;
+   line-height: 20px;
+   font-weight: 400;
+
+}
+.legalsec{
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+    background-color: transparent;
+    display: inline-block;
+    padding: 0;
+  
+}
+
+.secondbtndiv{
+    width: 377px;
+    height: 48px;
+    padding-bottom: 20px;
+    
+}
+.seondbtna{
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    border: none;
+    color: #292929;
+    text-align: center;
+    padding-left: 25px;
+    padding-top: 13px;
+    width: 212px;
+    height: 22px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    display: block;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    text-decoration: none;
+    font-weight: 400;
+
+}
+.thirdmaindiv{
+    width: 1170px;
+    height: 333px;
+    padding-top: 100px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+.thirdflux{
+    width: 1186px;
+    height: 333px;
+    margin-left: 46px;
+    margin-right: -8px;
+    display: flex;
+}
+.thirdimagediv{
+    width: 748px;
+    height: 333px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+
+}
+.thirdimagediv img{
+    vertical-align: middle;
+    width: 748px;
+    height: 333px;
+
+}
+.thirdcontent{
+    padding-left: 7px;
+    padding-right: 15px;
+    width: 377px;
+    height: 333px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.thirdbody{
+    height: 208px;
+    width: 393px;
+    margin-bottom: 14px;
+    color: #292929;
+}
+.thirdtittle{
+    width: 377px;
+    height: 40px;
+}
+.thirdtittle h2{
+    width: 377px;
+    height: 40px;
+    margin-bottom: 18px;
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: 700px;
+    line-height: 40px;
+}
+.thirddiscriotn{
+    width: 398px;
+    height: 135px;
+    padding-bottom: 15px;
+    text-align: left;
+}
+.thirdp1{
+    font-size: 16px;
+}
+.thirdbtn{
+    width: 377px;
+    height: 78px;
+    padding-bottom: 30px;
+
+}
+.thirdbtna{
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    width: 220px;
+    height: 48px;
+    align-items: center;
+    display: block;
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 161px;
+    height: 22px;
+    font-size: 14px;
+    font-weight: 500;
+
+    
+}
+.fourthmaindiv{
+    padding-top: 100px;
+    padding-right: 12px;
+    padding-left: 12px;
+    width: 1170px;
+    height: 464px;
+}
+.fourth{
+    padding-left: 12px;
+    padding-right: 16px;
+    height: 464px;
+    width: 1170px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    color: #292929;
+}
+.fourthflex{
+    margin-left: 46px;
+    margin-right: 46px;
+    width: 1170px;
+    height: 464px;
+    display: flex;
+
+}
+.fourthimg{
+    width: 748px;
+    height: 464px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+.fourthimg img{
+    width: 748px;
+    height: 333px;
+    vertical-align: middle;
+    object-fit: contain;
+}
+.contentforth{
+    width: 377px;
+    height: 464px;
+    padding-left: 1px;
+    padding-right: 15px;
+}
+.bodyforth{
+    width: 377px;
+    height: 357px;
+    margin-bottom: 14px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    color: #292929;
+}
+.forthtittle{
+    width: 377px;
+    height: 120px;
+    text-align: left;
+    display: block;
+    margin-top: 15px;
+    font-size: 23px;
+    margin-bottom: 18px;
+    line-height: 40px;
+}
+.forthdesc{
+    width: 377px;
+    height: 204px;
+    padding-bottom: 15px;
+    text-align: left;
+    display: block;
+}
+.forthdesc p{
+    font-weight: 400;
+
+}
+.forthdesc a{
+    color: #006bae;
+}
+
+.fourtlegal{
+    margin-bottom: 18px;
+    width: 377px;
+    height: 31px;
+    line-height: 9px;
+    font-size: 10px;
+    display: inline-block;
+}
+.forthbtn{
+    padding-bottom: 30px;
+    width: 377px;
+    height: 48px;
+}
+.forthbtn a{
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 193px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fifthmaindiv{
+    padding-top: 100px;
+    padding-right: 12px;
+    padding-left: 12px;
+    width: 1170px;
+    height: 526px;
+}
+.fifth{
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 526px;
+    width: 1170px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    color: #292929;
+    
+}
+.fifthfex{
+    margin-left: -8px;
+    margin-right: -8px;
+    width: 1186px;
+    height: 526px;
+    display: flex;
+    flex-flow: row;
+}
+.fifthimg{
+    width: 720px;
+    height: 526px;
+    padding-left: 64px;
+    padding-right: 15px;
+    float: left;
+}
+.fifimg2{
+    width: 748px;
+    width: 333px;
+}
+.fifthimg img{
+    width: 690px;
+    height: 333px;
+    vertical-align: middle;
+
+}
+.contentfif{
+    width: 377px;
+    height: 526px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.fifbody{
+    width: 377px;
+    height: 419px;
+    margin-bottom: 14px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    color: #292929;
+    text-align: left;
+}
+.fiftittle{
+    width: 377px;
+    height: 80px;
+    text-align: left;
+
+}
+.fiftittle h2{
+    margin-top: 15px;
+    margin-bottom: 18px;
+    width: 377px;
+    height: 80px;
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 36px;
+}
+.fifdescptn{
+    height: 306px;
+    width: 377px;
+    padding-bottom: 15px;
+    font-size: 1pc;
+}
+.fifdescptn p{
+    margin-bottom: 18px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.fiflegal{
+    width: 113px;
+    height: 14px;
+    font-size: 10px;
+    color: #292929;
+    background-color: transparent;
+    padding: 0px;
+}
+.fiflegal a{
+    color: #006bae;
+    background-color: transparent;
+    text-decoration: underline;
+    font-size: 10px;
+}
+.fifbtn{
+    padding-bottom: 30px;
+    width: 377px;
+    height: 48px;
+    text-align: left;
+}
+.fifbtn a{
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 250px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+}
+.sixdiv{
+    padding-top: 100px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 503px;
+}
+.sixdivext{
+    width: 1194px;
+    height: 503px;
+    margin-left: -12px;
+    margin-right: -12px;
+    font-style: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.fluxsix{
+    margin-left: 48px;
+    margin-right: -8px;
+    width: 1186px;
+    height: 503px;
+    display: flex;
+}
+.imgsix{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 748px;
+    height: 503px;
+}
+.siximg{
+    width: 748px;
+    height: 503px;
+}
+.siximg img{
+    width: 748px;
+    height: 333px;
+    vertical-align: middle;
+}
+.sixdesptn{
+    width: 377px;
+    height: 503px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+}
+.sixbody{
+    width: 377px;
+    height: 396px;
+    margin-bottom: 14px;
+}
+.sixtittle{
+    width: 377px;
+    height: 80px;
+}
+.sixtittle h2{
+    width: 377px;
+    height: 80px;
+    text-align: left;
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 18px;
+    font-weight: 900;
+    line-height: 36px;
+
+}
+.descripsix{
+    width: 377px;
+    height: 159px;
+    margin-bottom: 18px;
+    text-align: left;
+    font-size: 1pc;
+    font-weight: 400;
+}
+.legalsix{
+    width: 377px;
+    height: 44px;
+    background-color: transparent;
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+    display: inline-block;
+}
+.sixbtn{
+    width: 377px;
+    height: 48px;
+    padding-bottom: 30px;
+}
+.sixbtn a{
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 128px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    font-weight: 400;
+}
+.sevediv{
+    width: 1170px;
+    height: 354px;
+    padding-left: 12px;
+    padding-top: 59px;
+    padding-right: 12px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    
+}
+.sevenext{
+    width: 1194px;
+    height: 480px;
+    margin-left: -12px;
+    margin-right: -12px;
+
+}
+.extentseven{
+    width: 1170px;
+    height: 480px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.imgseven{
+    width: 1186px;
+    height: 480px;
+    margin-left: 6px;
+    margin-right: -8px;
+    display: flex;
+}
+.imgsev{
+    padding-left: 45PX;
+    padding-right: 15PX;
+    width: 748px;
+    height: 480px;
+}
+.imageseventh{
+    width: 748px;
+    height: 333px;
+}
+.imageseventh img{
+    width: 748px;
+    height: 333px;
+}
+.sevdesdiv{
+    padding-left: 15PX;
+    padding-right: 15PX;
+    width: 377px;
+    height: 480px;
+}
+.sevbody{
+    width: 377px;
+    height: 373px;
+    margin-bottom: 14px;
+}
+.tittlesev{
+    width: 377px;
+    height: 80px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    text-align: left;
+}
+.tittlesev h2{
+    width: 377px;
+    height: 80px;
+    margin-bottom: 18px;
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.descrisev{
+    width: 378px;
+    height: 261px;
+    margin-bottom: 15px;
+}
+.descrisev p{
+    width: 382px;
+    height: 91px;
+    margin-bottom: 18px;
+    font-size: 1pc;
+    text-align: left;
+}
+.descrisev a{
+    color: #006bae;
+    text-decoration: underline;
+    background-color: transparent;
+    font-size: 1pc;
+    text-align: left;
+}
+.sevlegal{
+    width: 89px;
+    height: 14px;
+    font-size: 10px;
+    margin-bottom: 18px;
+    line-height: 1.45;
+    display: inline-block;
+    background-color: transparent;
+}
+.btnsev{
+    width: 377px;
+    height: 48px;
+    padding-bottom: 30px;
+}
+.btnsev a{
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 150px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    
+}
+.eightcontainer{
+    padding-left: 12px;
+    padding-top: 200px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 370px;
+}
+.eightext{
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 370px;
+}
+.eigtflux{
+    width: 1186px;
+    height: 370px;
+    margin-left: 48px;
+    margin-right: -8px;
+    display: flex;
+}
+.imgeigtcontainer{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 748px;
+    height: 370px;
+}
+.img8div{
+    width: 748px;
+    height: 333px;
+}
+.img8div img{
+    width: 748px;
+    height: 333px;
+    vertical-align: middle;
+    border-style: none;
+}
+.content8{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 377px;
+    height: 370px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.body8{
+    width: 377px;
+    height: 263px;
+    margin-bottom: 14px;
+}
+.tittle8{
+    width: 377px;
+    height: 80px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+
+}
+.tittle8 h2{
+    width: 377px;
+    height: 80px;
+    margin-bottom: 18px;
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+
+}
+.decriptn8{
+    width: 377px;
+    height: 150px;
+    padding-bottom: 15px;
+    text-align: left;
+    line-height: 24px;
+}
+.decriptn8 p{
+    width: 377px;
+    height: 91px;
+    margin-bottom: 18px;
+    font-size: 1pc;
+    font-weight: 400;
+}
+.legal8{
+    width: 122px;
+    height: 14px;
+    background-color: transparent;
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+}
+.btn8{
+    width: 377px;
+    height: 78px;
+    padding-bottom: 30px;
+}   
+.btn8 a{
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 162px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+}
+.container9{
+    padding-left: 12px;
+    padding-top: 100px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 333px;
+}
+.containnext9{
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 1170px;
+    height: 333px;
+}
+.flex9{
+    width: 1186px;
+    height: 333px;
+    margin-left: 48px;
+    margin-right: -8;
+    display: flex;
+}
+.img9{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 748px;
+    height: 333px;
+}
+.imagein{
+    width: 748px;
+    height: 333px;
+}
+.imagein img{
+    width: 748px;
+    height: 333px;
+}
+.contenttext9{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 377px;
+    height: 333px;
+}
+.body9{
+    width: 377px;
+    height: 201px;
+    margin-bottom: 14px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.tittle9{
+    width: 377px;
+    height: 40px;
+}
+.tittle9 h2{
+    width: 377px;
+    height: 40px;
+    margin-bottom: 18px;
+    margin-top: 15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+}
+.descriptn9{
+    width: 377px;
+    height: 128px;
+    padding-bottom: 15px;
+    text-align: left;
+    font-size: 1pc;
+}
+.descriptn9 p{
+    width: 377px;
+    height: 68px;
+    margin-bottom: 18px;
+}
+.descriptn9 a{
+    color: #006bae;
+    background-color: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.legal9{
+    width: 206px;
+    height: 14px;
+    background-color: transparent;
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+}
+.btn9{
+    width: 377px;
+    height: 48px;
+    padding-bottom: 30px;
+}
+.btn9 a{
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-top: 13px;
+    padding-right: 25px;
+    padding-bottom: 13px;
+    width: 128px;
+    height: 22px;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    color: #292929;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;; 
+}
+.mainfooter{
+    width: 1263px;
+    height: 846px;
+    margin-top: 121px;
+}
+.footersecond{
+    width: 1130px;
+    height: 365px;
+    
+}
+.footersecondnav{
+    width: 1130px;
+    height: 365px;
+    margin-bottom: 40px;
+   
+}
+.navsectionsflex{
+    width: 1130px;
+    height: 365px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+.footerli{
+    width: 188px;
+    height: 365px;
+    list-style: none;
+}
+.footerheaddiv{
+    width: 188px;
+    height: 20px;
+    margin-left: 40px;
+}
+.footerheaddiv h2{
+    line-height: 20px;
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-top: revert;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 900;
+}
+.list1{
+    font-size: 10px;
+    font-weight: 400;
+    width: 245px;
+    height: 246px;
+    margin-top: 30px;
+    text-align: left;
+    line-height: 36px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;; ;
+}
+.listli{
+    list-style: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+.lastcontent{
+    width: 1130px;
+    height: 255px;
+    margin-top: 171px;
+    margin-left: 54px;
+
+}
+.footerpromotion{
+    width: 1130px;
+    height: 40px;
+    padding-bottom: 46px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.footersocial{
+    width: 745px;
+    height: 40px;
+    padding-bottom: 46px;
+    display: flex;
+   
+}
+.imagefooter{
+    width: 32px;
+    height: 40px;
+    margin-right: 21px;
+    
+
+}
+.picfooter img{
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    border-style: none;
+    margin-right: 80px;
+    margin-right: 21px;
+}
+.picfooter{
+    width: 32px;
+    height: 32px;
+}
+.footerappsdiv{
+    width: 384px;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+  
+}
+.appsotrdiv{
+    width: 155px;
+    height: 40px;
+}
+.appsotrdiv img{
+    width: 155px;
+    height: 40px;
+}
+.googleplay{
+    width: 154px;
+    height: 40px;
+}
+.googleplay img{
+    width: 154px;
+    height: 40px;
+}
+.seperatorline{
+    width: 1130px;
+    height: 0.667px;
+}
+.sepdiv{
+    width: 1130px;
+    height: 0.667px;
+}
+.linehr{
+    border-bottom: none;
+    border-top: 1px solid #cecece;
+    margin-bottom: 50px;
+    margin-left: -20px;
+    margin-right: -20px;
+    width: 1170px;
+}
+.legaldivlast{
+    width: 1130px;
+    height: 89px;
+    display: flex;
+    font-size: 1pc;
+    line-height: 24px;
+    align-items: unset;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+    color: #292929;
+    margin-top: 43px;
+
+}
+.legallinks{
+    width: 753px;
+    height: 89px;
+}
+.listlast{
+    width: 753px;
+    height: 89px;
+}
+.listlast a{
+    text-decoration: none;
+    color: #292929;
+}
+.lastul{
+    width: 753px;
+    height: 89px;
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    column-gap: 40px;
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;;
+
+
+}
+.copyrigtdiv{
+    width: 376px;
+    height: 89px;
+    display: flex;
+    text-align: right;
+    margin-left: 53px;
+}
+.logolast{
+    width: 68px;
+    height: 28px;
+}
+.logolast img{
+    width: 28px;
+    height: 28px;
+    margin-top: 20px;
+}
+.textdiv{
+    width: 308px;
+    height: 32px;
+}
